@@ -1,0 +1,21 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "0 - Homepage",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "folder": "1 - Rough Notes",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "",
+      "viewMode": ""
+    }
+  ]
+}
