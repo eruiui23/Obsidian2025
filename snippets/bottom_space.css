@@ -1,0 +1,5 @@
+/* space between folded headers - reader view + edit view */
+.is-collapsed > :is(h1, h2, h3, h4, h5, h6),
+.HyperMD-header > .cm-fold-indicator.is-collapsed ~ .cm-widgetBuffer:last-of-type { 
+    margin-bottom: 24px !important; 
+}
