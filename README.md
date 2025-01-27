@@ -4,7 +4,7 @@ I use Minimal theme :D
 
 ## Plugin 
 All of my plugin could be found on [this folder](plugins) <br>
-my most used ones are :
+**My most used ones are** :
 - Calendar
 - Dataview
 - Contribution Graph
@@ -17,15 +17,12 @@ my most used ones are :
 ![test](assets/Homepage.png)
 
 ### Centered Img
-there are two ways you could center an img using snippet
-- [ceter img](snippets/centerimg.css)
-- [center title](snippets/center_title.css)
-
-#### center img 
+there are two ways to center an img
+#### [center img](snippets/centerimg.css)
 (+) Works in reading and editing mode <br>
 (-) Applied to every img on your obsidian notes 
 
-#### center title
+#### [center title](snippets/center_title.css)
 (+) You could select which img you want to center because it only select h1 element <br>
 (-) Unfortunately doesn't work on reading mode<br>
 to use this you need to put `#` before your img
